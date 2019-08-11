@@ -1,1 +1,2 @@
 # Arduino-esp8266-firebase-IOT
+this project was presented in the smart India Hackathon 2018,and its main aim is to help save power by reporting the user via an app if it senses any faulty power consumption or any unusual fluctuations in the use of power,the esp8266 is directly connected to the firebase server where it sends all the readings per sec and which then passes to the app,which henceforth passes a push notification in case of fault.
